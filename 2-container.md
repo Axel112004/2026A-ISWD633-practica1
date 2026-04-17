@@ -80,10 +80,13 @@ Crear y ejecutar inmediatamente el contenedor **srv-web3** en modo detach usando
 docker rm <nombre contenedor>
 ```
 Eliminar el contenedor que se creó a partir de la imagen hello-world 
-# COMPLETAR
+
+<img width="1493" height="235" alt="image" src="https://github.com/user-attachments/assets/69db10d9-e39f-4e66-8970-c555aab17a4f" />
+
 
 Verificar que el contenedor que se eliminó
-# COMPLETAR
+<img width="1554" height="157" alt="image" src="https://github.com/user-attachments/assets/dda7a61f-1005-4195-a941-e811982fa608" />
+
 
 ### Para eliminar un contenedor que esté ejecutándose
 
