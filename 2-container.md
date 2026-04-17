@@ -58,7 +58,8 @@ Crear y ejecutar inmediatamente el contenedor **srv-web2** usando la imagen ngin
 
 
 **¿Qué sucede luego de la ejecución del comando?**
-# COMPLETAR  
+
+Luego de ejecutar el comando, Docker crea e inicia el contenedor srv-web-2 usando la imagen nginx:alpine, y Nginx queda ejecutándose en primer plano dentro de la terminal. Por eso la terminal muestra los mensajes del servicio y ya no permite escribir otros comandos ahí mismo, porque el proceso sigue activo hasta que se detenga manualmente o se abra otra terminal.
 
 Cuando ejecutas un contenedor en primer plano sin la opción -d (modo detach), el contenedor captura la entrada estándar (stdin) del terminal, lo que significa que el terminal queda "atrapado" y no puedes introducir más comandos hasta que detengas el contenedor.
 
