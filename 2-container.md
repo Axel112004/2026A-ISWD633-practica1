@@ -54,7 +54,8 @@ docker run --name <nombre contenedor> <nombre imagen>:<tag>
 ![Ecosistema de Docker](dockerRun.PNG)
 
 Crear y ejecutar inmediatamente el contenedor **srv-web2** usando la imagen nginx:alpine
-# COMPLETAR
+<img width="1242" height="347" alt="image" src="https://github.com/user-attachments/assets/e5ec4663-412a-43dd-b471-2060aa3a128d" />
+
 
 **¿Qué sucede luego de la ejecución del comando?**
 # COMPLETAR  
