@@ -71,7 +71,8 @@ Cuando un contenedor se ejecuta en segundo plano, Docker devuelve el control al 
 docker run -d --name <nombre contenedor> <nombre imagen>:tag
 ```
 Crear y ejecutar inmediatamente el contenedor **srv-web3** en modo detach usando la imagen nginx:alpine
-# COMPLETAR
+<img width="854" height="67" alt="image" src="https://github.com/user-attachments/assets/24ad5d0b-4186-44be-a55b-19f0fad3b584" />
+
 
 ### Para eliminar un contenedor
 
