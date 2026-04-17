@@ -31,7 +31,8 @@ docker pull nginx:alpine
 docker images
 ```
 
-# COLOCAR UNA CAPTURA DE PANTALLA DEL RESULTADO 
+<img width="913" height="148" alt="image" src="https://github.com/user-attachments/assets/28b84b76-ed67-4fc8-b06c-fb550c796b47" />
+
 
 **Identificadores**
 
