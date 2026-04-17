@@ -22,6 +22,7 @@ Descargar la imagen **hello-world**
 Nginx es un software que funciona como servidor web, es decir, se encarga de recibir las solicitudes de los usuarios en internet y entregarles páginas web, imágenes u otros contenidos. Además, puede actuar como intermediario (proxy), dirigiendo el tráfico hacia aplicaciones como FastAPI para que procesen la información.
 
 Descargar la imagen  **nginx** en la versión **alpine**
+
 docker pull nginx:alpine
 
 ### Listar imágenes
