@@ -102,4 +102,5 @@ Verificar que el contenedor que se eliminó
 ### Para inspecionar un contenedor 
 
 Inspeccionar el contenedor **srv-web** 
-# COMPLETAR
+<img width="1919" height="797" alt="image" src="https://github.com/user-attachments/assets/9ffddc4c-821d-4245-b0f3-3c114a6ce3ac" />
+
