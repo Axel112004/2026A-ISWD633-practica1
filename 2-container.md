@@ -14,7 +14,9 @@ Crear el contenedor  **srv-web** usando la imagen nginx version alpine
 Si creas un contenedor en Docker sin asignarle un nombre específico utilizando la opción --name, Docker asignará automáticamente un nombre aleatorio al contenedor. Este nombre suele consistir en una combinación de palabras y números.  
 
 Crear el contenedor usando la imagen hello-world
-# COMPLETAR
+
+<img width="990" height="212" alt="image" src="https://github.com/user-attachments/assets/a3bbe6b5-e8bf-46b6-b9ad-db0e1886fc7f" />
+
 
 ### Listar los contenedores ejecutándose o no
 
