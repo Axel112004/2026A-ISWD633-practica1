@@ -14,7 +14,8 @@ docker pull <nombre imagen>:<tag>
 ```
 
 Descargar la imagen **hello-world**
-# COMPLETAR
+<img width="1258" height="323" alt="image" src="https://github.com/user-attachments/assets/0378bda5-aece-4028-9b09-26cd27824aa3" />
+
 
 **¿Qué es nginx?**
 Nginx es un software que funciona como servidor web, es decir, se encarga de recibir las solicitudes de los usuarios en internet y entregarles páginas web, imágenes u otros contenidos. Además, puede actuar como intermediario (proxy), dirigiendo el tráfico hacia aplicaciones como FastAPI para que procesen la información.
