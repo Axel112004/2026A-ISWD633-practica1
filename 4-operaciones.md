@@ -19,6 +19,9 @@ Para ejecutar este comando dentro del contenedor de Jenkins, se utiliza Docker c
 
 # COLOCAR UNA CAPTURA DE PANTALLA
 
+<img width="486" height="370" alt="image" src="https://github.com/user-attachments/assets/eeed2c63-8fda-45dd-965c-06937ed50134" />
+
+
 ### Para ejecutar un shell interactivo en un contenedor de Docker especificado.
 El comando **docker exec** te permite acceder a la sesión shell de un contenedor en ejecución, estarás dentro del contenedor y podrás ejecutar comandos como si estuvieras en una terminal normal. 
 Para saber qué comando utilizar para abrir una terminal dentro de un contenedor, es útil conocer la imagen base del contenedor, ya que diferentes imágenes pueden usar diferentes shells o comandos para abrir una terminal. Puedes verificar la documentación de la imagen del contenedor en Docker Hub o en el repositorio de la imagen para obtener información específica sobre cómo abrir una terminal en esa imagen.
